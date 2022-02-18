@@ -8,7 +8,7 @@
 ## TO RUN TESTS:
 - go test ./... -coverprofile cover.out
 
-## URLS FOR THE API TAKEN STRAIGHT FROM NETWORK TAB (IM SORRY)
+## URLS FOR THE API 
 - search a song
  https://api-v2.soundcloud.com/search?q=hello&sc_a_id=f55635101bfdf1e8418a36ef0ee8e86f23d9f257&variant_ids=2451&facet=model&user_id=565035-794848-92508-940751&client_id=BmI0Zgypr3dPccFBK9QLjkCpCgvowlzQ&limit=20&offset=0&linked_partitioning=1&app_version=1643966166&app_locale=en
 
